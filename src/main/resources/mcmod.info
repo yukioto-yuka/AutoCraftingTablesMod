@@ -1,0 +1,16 @@
+[
+{
+  "modid": "auto_crafting_tables",
+  "name": "Auto Crafting Tables Mod",
+  "description": "add some auto crafting tables.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://yukioto-it.com/",
+  "updateUrl": "",
+  "authorList": ["yuka"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

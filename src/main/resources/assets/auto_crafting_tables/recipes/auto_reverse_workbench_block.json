@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iri",
+        "iwi",
+        "ici"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "r": {
+            "item": "minecraft:redstone"
+        },
+        "w": {
+            "item": "minecraft:crafting_table"
+        },
+        "c": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "auto_crafting_tables:auto_reverse_workbench_block",
+        "count": 1
+    }
+}
